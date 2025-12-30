@@ -1,0 +1,8 @@
+{
+  "name": "MuseAI - Professional Music Engine",
+  "description": "A high-fidelity AI music creation studio powered by Gemini. Generate lyrics, compositions, and vocal blueprints with ease.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
